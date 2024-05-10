@@ -1,14 +1,14 @@
 ![banner](https://user-images.githubusercontent.com/85251388/179023488-0ade188b-840e-48c5-8fdf-3502ff2aa26e.png)
 
-[![Downloads](https://img.shields.io/github/downloads/Wolfsurge/Paragon/total?color=blueviolet&style=for-the-badge)](https://github.com/Wolfsurge/Paragon/releases)
+[![Downloads](https://img.shields.io/github/downloads/HAV0X1014/Paragon/total?color=blueviolet&style=for-the-badge)](https://github.com/HAV0X1014/Paragon/releases)
 [![Discord](https://img.shields.io/discord/936976249300086854?color=blueviolet&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/28JNQsXUzb)
-![Lines of code](https://img.shields.io/tokei/lines/github/Wolfsurge/Paragon?color=blueviolet&label=lines%20of%20code&style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/HAV0X1014/Paragon?color=blueviolet&label=lines%20of%20code&style=for-the-badge)
 
 # Paragon
 
 A 1.12.2 Anarchy Client. Probably never going to be worked on again, although I will test and merge any pull requests that are submitted.
 Download the client from the latest
-commit [here](https://nightly.link/Wolfsurge/Paragon/workflows/build/master/Paragon-Build.zip)
+commit [here](https://nightly.link/HAV0X1014/Paragon/workflows/build/master/Paragon-Build.zip)
 
 # FAQ
 
