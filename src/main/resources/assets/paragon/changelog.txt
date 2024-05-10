@@ -1,0 +1,20 @@
+Changelog for 1.2.0
+
+Modules added:
+
+HUD modules added:
+
+Commands added:
+
+Settings added:
+    - ChatModifications -> Spammer -> Mode and Limit
+
+Other additions:
+
+Removed:
+
+Reworked:
+
+Changed:
+
+Bug Fixes:
